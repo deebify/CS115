@@ -22,7 +22,7 @@ main(){
             4- default is the Consonant Character. 
 
     */
-    cout << "Program #1 -- Vowel-Consonant Character \n";
+    cout << "Program #3 -- Vowel-Consonant Character \n";
     char ch;
     cin >> ch; 
 
