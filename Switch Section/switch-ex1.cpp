@@ -13,6 +13,9 @@ int main(){
      Switch is usually faster than nested if-else statement 
      which in Switch, you will provide number of choices "cases"
 
+     But Switch can only accept defined case from Integers to Characters (maybe Strings)
+     But not Floating point .. WHY? 
+
     **/
     
     /**
@@ -24,6 +27,8 @@ int main(){
     cout << "Enter 2 Integers (X,Y) \n";
     cin >> x >> y;
 
+    // WTF is goin' on HERE!! 
+    // HOW SWITCH Statement accept BOOLEAN ??  
     switch (x > y)
     {
         case 0:

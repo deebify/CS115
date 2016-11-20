@@ -24,6 +24,9 @@ main(){
     // Switch on "op"
     switch (op)
     {
+        default:
+            cout << "Invalid Operator \n";
+            break;
         case '+':
             cout << x << " + " << y << " = " << x+y << endl;
             break;
@@ -36,9 +39,6 @@ main(){
         case '/':
             cout << x << " / " << y << " = " << x/y <<endl;
             break;
-    default:
-        cout << "Invalid Operator \n";
-        break;
     } 
 
     return 0;
