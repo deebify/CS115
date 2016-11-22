@@ -3,7 +3,7 @@ using namespace std;
 main(){
     /**
         Switch will operate based on pre-defined cases you provide
-        and there's a "defualt case" will execute if 
+        and there's a "default case" will execute if 
         given case not in the defined before and its optional
     **/
 
