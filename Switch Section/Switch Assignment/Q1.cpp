@@ -13,7 +13,8 @@ This is a Challenging Question  (Not an Assignment):
     Using Switch-cases write the each case.
 
     Hints:
-        - you can use 2 nested switch :P :P 
+        - you can use 2 nested switch :P :P
+        - a good hint: https://goo.gl/btE2yH 
 
     Input  = a, b, c (3 variables)
     Output = 2 roots (2 variables)
