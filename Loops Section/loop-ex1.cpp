@@ -3,9 +3,9 @@ using namespace std;
 int main(){
     /***
     We Need to repeat something again and again. 
-    Utill no longer some point no need to repeat it.
-    This is Loops. 
-        We need to Control the Program by "Repetition".
+    Until to some point no longer valid and no need to repeat it.
+    This is Loop. 
+        We need to Control the Program by "Repetitions".
 
     3 Kinds of Loops Expression:
         -> While Loop
@@ -13,8 +13,8 @@ int main(){
         -> For Loop
         -> ?? () 
 
-    Actually almost all can do the same thing. 
-        which is Loop Over and Over again to some block of code. 
+    Actually almost all loops can do the same thing. 
+        which is Loop Over and Over again the block of code. 
 
         Code will be repeated until condition no longer valid/true. 
 
@@ -25,7 +25,6 @@ int main(){
 
         WTF is THAT ?? 
         
-
 
     Keep in mind: 
         -- test expression will be checked.
@@ -98,9 +97,6 @@ int main(){
         y = false;
 
     }
-
-
-
 
     return 0;
 }
