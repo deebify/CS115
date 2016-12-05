@@ -4,6 +4,7 @@ int main(){
     
     /**
         Program#5 : Using Any Loop While or Do-While  
+            to Sum on Ints
     **/
 
     float x = 1; // WHY ?? 
